@@ -9,7 +9,7 @@ This project uses **Recurrent Neural Networks (RNNs)** to predict weather data, 
 * **Tools Used**:
 
   * Python
-  * TensorFlow / Keras
+  * TensorFlow / Keras 
   * NumPy / Pandas
   * Matplotlib / Seaborn (for visualization)
 * **Data**: Real-time or historical weather data formatted as time series.
